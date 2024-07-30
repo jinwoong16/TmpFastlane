@@ -1,0 +1,8 @@
+app_identifier("io.tuist.FirebaseExample") # The bundle identifier of your app
+apple_id("baseball0020@gmail.com") # Your Apple Developer Portal username
+
+itc_team_id("126668711") # App Store Connect Team ID
+team_id("ERT3ZH7BA7") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
